@@ -3,7 +3,6 @@
 """
 @author: tx
 @File    : word_filter.py
-@Time    : 2020-12-22 11:08
 @desc    : 敏感词过滤
 """
 from collections import defaultdict
